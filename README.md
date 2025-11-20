@@ -1,4 +1,4 @@
-# README for HST251: Doing Digital History - Rapid Development Challenge
+# HST251: Doing Digital History - Rapid Development Challenge
 This organizational repository is the landing page for Dr. Gillian Macdonald's HST 251: Doing Digital History class for Fall semester 2025. The repository contains a rapid development activity. It was designed for a college digital history course, but it has applications across a variety of humanities and data-oriented courses. The goal is for students to think about developing digital projects from a machine perspective (being able to build without so much hard "coding" exprience) and from the humanistic perspective (interrogating how our data shapes interpretation). Feel free to adapt and circulate! 
 
 ## The Activity
@@ -27,7 +27,11 @@ For this project you will need to make an argument about 4 sources and what they
 The developer on the team then had to upload all the material into their Tech Pod repository on this site. 
 
 ## How to create a README
-
+READMEs are useful for trying to recreate a project and include an explanation of the project, its structure, and how to reuse it. 
+- _Markdown:_ READMEs use Markdown for formatting (headings, lists, links, images, code blocks).
+- _Clarity and Conciseness:_ Clearly explain your project or profile information.
+- _Structure:_ Organize your content with headings and subheadings for readability.
+- _Visuals:_ Consider including screenshots, GIFs, or badges to enhance your README.
 
 ## Putting your content on Github Pages
 Once you've edited your file, you're ready to publish it as a live page.
